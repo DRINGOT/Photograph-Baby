@@ -87,11 +87,13 @@ a {
   text-decoration: none;
 }
 .logo {
+  text-decoration: none;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .pContact {
+  text-decoration: none;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -99,6 +101,7 @@ a {
   font-size: 4rem;
   font-family: "Great Vibes", cursive;
   color: #a88888;
+  text-shadow: 0.5rem 0.3rem 0.3rem #000000;
 }
 .pPrestation {
   text-decoration: none;
@@ -109,10 +112,11 @@ a {
   font-size: 4rem;
   font-family: "Great Vibes", cursive;
   color: #a88888;
+  text-shadow: 0.5rem 0.3rem 0.3rem #000000;
 }
 .pFooterGalerie {
   text-align: center;
   font-size: 3rem;
   font-family: "Poppins", sans-serif;
-  color:white;
+  color: white;
 }
