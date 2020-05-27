@@ -13,9 +13,12 @@ HTML CSS SASS SCSS
 ![preview](https://raw.githubusercontent.com/DRINGOT/Photograph-Baby/master/images/preview/prestation_photograph.png)
 
 ## WIREFRAME
-![UML DESKTOP](https://raw.githubusercontent.com/DRINGOT/Photograph-Baby/master/doc/desktop_wireframe/desktop_wireframe.png)
-![UML TABLET](https://raw.githubusercontent.com/DRINGOT/Photograph-Baby/master/doc/tablet_wireframe/tablet.png)
-![UML PHONE](https://raw.githubusercontent.com/DRINGOT/Photograph-Baby/master/doc/tel_wireframe/tel.png)
+#### WIREFRAME FOR DESKTOP
+![WIREFRAME DESKTOP](https://raw.githubusercontent.com/DRINGOT/Photograph-Baby/master/doc/desktop_wireframe/desktop_wireframe.png)
+#### WIREFRAME FOR TABLET
+![WIREFRAME TABLET](https://raw.githubusercontent.com/DRINGOT/Photograph-Baby/master/doc/tablet_wireframe/tablet.png)
+#### WIREFRAME FOR PHONE
+![WIREFRAME PHONE](https://raw.githubusercontent.com/DRINGOT/Photograph-Baby/master/doc/tel_wireframe/tel.png)
 
 
-    :arrow_right: [Contact me for more informations](https://twitter.com/DRingot_dev) :arrow_left:
+  :arrow_right: [Contact me for more informations](https://twitter.com/DRingot_dev) :arrow_left:
