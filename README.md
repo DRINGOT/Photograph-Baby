@@ -1,6 +1,5 @@
-# livraison :three:
-Photograph baby
-HTML CSS SASS SCSS
+# Photograph baby
+#### HTML CSS SASS SCSS
 
 ## Preview
 ### Homepage
